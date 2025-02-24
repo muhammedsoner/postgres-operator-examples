@@ -38,6 +38,7 @@
 # metrics exporter than can be scraped by Prometheus. This defaults to the value
 # below.
 # monitoring: false
+# podmonitor: false
 
 ###################
 # Image Overrides #
